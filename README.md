@@ -8,5 +8,5 @@
 и ответ поместить в List (это не RecyclerView??)
 
 [20.03.2020] Небольшой Google Maps Sample. Включает в себя запрос на сервер, отрисовку маркеров на карте 
-![ScreenShot Google Map](link-to-image)
+![ScreenShot Google Map](https://github.com/Dorokhovyegor/flutterApp/blob/master/images/screen_shot_1.jpg?raw=true)
 
