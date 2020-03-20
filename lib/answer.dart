@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 
 class Answer extends StatelessWidget {
+  Answer(this.callBack, this.answerText);
+
   final Function callBack;
   final String answerText;
-
-  Answer(this.callBack, this.answerText);
 
   @override
   Widget build(BuildContext context) {
